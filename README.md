@@ -1,4 +1,4 @@
-Booking a table on the little lemon website 
+Little Lemon
 The little lemon app is the capstone project for Meta's Front-End Developer Certificate on Coursera.
 
 🚀 Technologies
